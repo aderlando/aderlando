@@ -24,7 +24,7 @@ Sou apaixonado por resolver 2 problemas:
 - [**Apostilas Informática Melhor Idade**](#) - 3 apostilas com 8 módulos
 
 ### 📫 Me encontre
-- LinkedIn: linkedin.com/in/aderlando
+- LinkedIn: [linkedin.com/in/aderlando](https://www.linkedin.com/in/aderlando-oliveira-a730b47b/)
 - Email: aderlando-oliveira@hotmail.com
 
 "Ensinar é conectar. Conectar é transformar."
