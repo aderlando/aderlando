@@ -1,6 +1,6 @@
 ## Olá! Eu sou Aderlando 👋
 
-**Desenvolvedor | Redes FTTH/GPON | Educador Digital**
+**Desenvolvedor | Redes FTTH/GPON | Educador Digital | Estudante de engenharia de Software**
 
 Sou apaixonado por resolver 2 problemas: 
 1. Levar internet de qualidade com redes de fibra óptica
@@ -9,7 +9,7 @@ Sou apaixonado por resolver 2 problemas:
 ### 🚀 Sobre mim
 - 📍 João Pessoa - PB, Brasil
 - 🔭 Trabalhando em: Projeto de Rede FTTH GPON
-- 🌱 Estudando: Python, Redes de Computadores, GPON
+- 🌱 Estudando: Python, Node.js,
 - 💬 Pergunte-me sobre: FTTH, GPON, Automação com Python, Didática para Idosos
 - ⚡ Fun fact: Crio apostilas de informática com ilustrações para a melhor idade
 
