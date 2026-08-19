@@ -10,7 +10,7 @@ Sou apaixonado por resolver 2 problemas:
 - 📍 João Pessoa - PB, Brasil
 - 🔭 Trabalhando em: Projeto de Rede FTTH GPON
 - 🌱 Estudando: Pytton, Node.js,
-- 💬 Pergunte-me sobre: FTTH, GPON, Automação com Python, Didática para Idosos
+- 💬 Pergunte-me sobre: FTTH, GPON, Automação com Pytton, Didática para Idosos
 - ⚡ Fun fact: Crio apostilas de informática com ilustrações para a melhor idade
 
 🛠️ Tech Stack
