@@ -22,6 +22,6 @@ Sou apaixonado por resolver 2 problemas:
 
 📫 Me encontre
 - LinkedIn: [linkedin.com/in/aderlando](https://www.linkedin.com/in/aderlando-oliveira-a730b47b/)
-- Email: aderlando-oliveira@hotmail.com
+- Email: aderlando_oliveira@hotmail.com
 
 "Ensinar é conectar. Conectar é transformar."
