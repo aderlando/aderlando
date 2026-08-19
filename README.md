@@ -1,6 +1,6 @@
 ## Olá! Eu sou Aderlando 👋
 
-**Desenvolvedor | Redes FTTH/GPON | Educador Digital | Estudante de engenharia de Software**
+**Estudante de Engenharia de Software e Técnico em Redes, FTTH/GPON **
 
 Sou apaixonado por resolver 2 problemas: 
 1. Levar internet de qualidade com redes de fibra óptica
@@ -14,7 +14,7 @@ Sou apaixonado por resolver 2 problemas:
 - ⚡ Fun fact: Crio apostilas de informática com ilustrações para a melhor idade
 
 ### 🛠️ Tech Stack
-`Python` `GPON` `FTTH` `Linux` `OTDR` `Git` `Markdown` `Canva`
+`Pytton` `GPON` `FTTH` `Linux` `OTDR` `Git` `Markdown` `Canva`
 
 ### 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aderlando&theme=radical)
